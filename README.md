@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio website showcasing my professional journey, skills, and projects. Built with HTML, CSS, and JavaScript, featuring smooth animations and an intuitive user interface.
 
-![Portfolio Preview](./assets/profile-pic.png)
+![Portfolio Preview](./assets/portfolio-preview.png)
 
 ## 🌟 Features
 
